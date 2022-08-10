@@ -7,8 +7,3 @@ Team Leader:
 Bhavana 
 
 Team Members;
-
-Vinay Kumar
-Nitish Yadav
-Shahid
-
